@@ -1,1 +1,7 @@
+<<<<<<< .mine
 Hello world!
+
+=======
+Hello world!
+¹ş¹ş¹ş
+>>>>>>> .theirs
